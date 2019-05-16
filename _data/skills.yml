@@ -1,26 +1,26 @@
 # Skills
 - skill: Development
   description: > 
-    "<ul>
+    <ul>
       <li>Languages: TypeScript, Java, Python, C#, Ruby, Golang, PHP, C/C++</li>
       <li>Frameworks: Node.js, Angular, React, Spring Boot, jQuery</li>
       <li>CI/CD:  Docker, Kubernetes, Concourse, Splunk, Log4j, New Relic, Sentry</li>
       <li>Tools & Formats: JSON, YAML, PostgreSQL, OpenGL, REST, SOAP, Markdown</li>
-    </ul>"
+    </ul>
 
 - skill: Industry Knowledge
   description: >
-    "<ul>
+    <ul>
       <li>Methodologies: Scrum, Agile, SDLC, Continuous Improvement, Lean Six Sigma</li>
       <li>Automation: Robotic Process Automation, Pipelines, Automated Testing</li>
       <li>Big Data: NoSQL, Numpy, Pandas, Blockchain</li>
       <li>AI: TensorFlow, Keras, Convolutional Neural Networks</li>
-    </ul>"
+    </ul>
 
 - skill: Personal
   description: >
-    "<ul>
+    <ul>
       <li>Organization: GTD (Getting Things Done), Inbox Zero, Bullet Journal</li>
       <li>Interpersonal: Team Player, Approachable, Highly Engaged (Orange Frog)</li>
       <li>Development: Continuing Education, Community Involvement, Proactive Mentee</li>
-    </ul>"
+    </ul>
