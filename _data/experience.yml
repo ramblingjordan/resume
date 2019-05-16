@@ -2,8 +2,13 @@
 # Application Developer
 - company: Nationwide
   position: Application Developer
-  duration: Jan, 2018 &mdash; Present
-  summary: Joined Nationwide IT Development as part of a new team utilizing a technology stack yet unestablished. I have participated in the day to day work of development as well as helped define the standards and processes the team uses<ul class="resume-item-list"><li>Designed and developed Robotic Process Automation solutions for repetitive Financial Shared Services tasks</li><li>2018 Hackathon project utilizing AWS CloudLens to reconcile physical and digital scrum boards. Considered for post Hackathon acceleration</li><li>Built a team accelerator automating upload of project backlog to GitHub saving hours of data entry</li></ul>
+  duration: Jun, 2016 &mdash; Present
+  summary: >
+    <ul>
+      <li>Developed and maintained J2EE Web Apps for the Nationwide Investments organization.</li>
+      <li>Provided Robotic Process Automation solutions for Financial Shared Services resulting in dramatic cost reductions.</li>
+      <li>Implemented CI/CD solutions utilizing Docker, Kubernetes, Concourse with logging and monitoring in New Relic all loaded and running within Amazon Web Services.</li>
+    </ul>
 
 # Retention Agent
 - company: Nationwide
