@@ -4,7 +4,7 @@
     <ul>
       <li>Languages: TypeScript, Java, Python, C#, Ruby, Golang, PHP, C/C++</li>
       <li>Frameworks: Node.js, Angular, React, Spring Boot, jQuery</li>
-      <li>CI/CD:  Docker, Kubernetes, Concourse, Splunk, Log4j, New Relic, Sentry</li>
+      <li>CI/CD:  Docker, Kubernetes, Concourse, Splunk, Log4j, New Relic</li>
       <li>Tools & Formats: JSON, YAML, PostgreSQL, OpenGL, REST, SOAP, Markdown</li>
     </ul>
 
