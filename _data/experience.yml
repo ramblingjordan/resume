@@ -1,11 +1,19 @@
 - company: Nationwide
-  position: Application Developer
-  duration: Jun, 2016 &mdash; Present
+  position: Senior Application Developer
+  duration: Jan, 2019 &mdash; Present
   summary: >
     <ul>
-      <li>Developed and maintained J2EE Web Apps for the Nationwide Investments organization.</li>
-      <li>Provided Robotic Process Automation solutions for Financial Shared Services resulting in dramatic cost reductions.</li>
+      <li>Developed and maintained Java Web Applications for the Nationwide Investments organization.</li>
       <li>Implemented CI/CD solutions utilizing Docker, Kubernetes, Concourse with logging and monitoring in Splunk and New Relic all loaded and running within Amazon Web Services.</li>
+    </ul>
+
+- company: Nationwide
+  position: Application Developer
+  duration: Jun, 2016 &mdash; Dec, 2018
+  summary: >
+    <ul>
+      <li>Helped to create and implement enterprise Robotic Process Automation (RPA) standards and practices.</li>
+      <li>Created resilient RPA solutions to automate financial service processes for significant cost savings.</li>
     </ul>
 
 - company: Whole Foods Market
