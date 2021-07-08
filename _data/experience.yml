@@ -3,8 +3,10 @@
   duration: Jan, 2019 &mdash; Present
   summary: >
     <ul>
+      <li>Created and developed new Angular 12 projects.</li>
       <li>Developed and maintained Java Web Applications for the Nationwide Investments organization.</li>
       <li>Implemented CI/CD solutions utilizing Docker, Kubernetes, Concourse with logging and monitoring in Splunk and New Relic all loaded and running within Amazon Web Services.</li>
+      <li>Utilized Liquibase for self-service database changes.</li>
     </ul>
 
 - company: Nationwide
