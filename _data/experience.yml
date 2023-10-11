@@ -2,47 +2,37 @@
   position: Consultant Technology Analyst
   duration: Jul, 2022 &mdash; Present
   summary: >
-    Results
     <ul>
       <li><strong>Leadership:</strong> Led a team of analysts in creating requirements for our Partner Platform capabilities.</li>
       <li><strong>Business Acumen:</strong> Worked directly with SEPM and Business Owner to coordinate work priorities, develop product roadmaps, and manage multiple funding sources.</li>
       <li><strong>Digital Concepts:</strong> Introduced Component Driven Development and a 'Bolt First' mentality to streamline development.</li>
-    </ul>
-    People
-    <ul>
-      <li>Mentored individual associates both through formally and informal channels, focusing on technical development, career advancement, and succession planning.</li>
-      <li>Uplifted the team as a whole by instituting an 'Innovation Afternoon', and raising technical awareness in all phases of application design and development.</li>
-      <li>Through an extensive network able to connect associates in need of uplift, or connections in other areas of Nationwide. Brought in subject matter experts from other teams to assist with overcomming blockers.</li>
       <li><strong>Team Development:</strong> Mentored associates focusing on technical development, career advancement, and succession planning.</li>
     </ul>
+    
 - company: Nationwide
   position: Specialist Technology Analyst
   duration: Jan, 2021 &mdash; Jul, 2022
   summary: >
     <ul>
-      <li>Created UI designs in Jira for the PDX web application, providing development support as needed.</li>
-      <li>Mentored a developer with a passion for design and analysis to take on additional responsibilities resulting in their promotion.</li>
-      <li>Worked with the technology lead and architect to adjust implementation plans to utilize modern development patterns.</li>
+      <li><strong>UI/UX:</strong> Created UI designs in Jira for the PDX web application.</li>
+      <li><strong>Leadership:</strong> Mentored a developer to take on additional responsibilities, resulting in their promotion.</li>
     </ul>
-
+    
 - company: Nationwide
   position: Senior Application Developer
   duration: Aug, 2019 &mdash; Jan 2021
   summary: >
     <ul>
-      <li>Created and developed new Angular 12 projects.</li>
-      <li>Developed and maintained Java Web Applications for the Nationwide Investments organization.</li>
-      <li>Implemented CI/CD solutions utilizing Docker, Kubernetes, Concourse with logging and monitoring in Splunk and New Relic all loaded and running within Amazon Web Services.</li>
-      <li>Utilized Liquibase for self-service database changes.</li>
+      <li><strong>Technical Skills:</strong> Developed new Angular 12 projects and maintained Java Web Applications.</li>
+      <li><strong>CI/CD:</strong> Implemented CI/CD solutions utilizing Docker, Kubernetes, and Concourse.</li>
     </ul>
-
+    
 - company: Nationwide
   position: Application Developer
   duration: Dec, 2018 &mdash; Aug, 2019
   summary: >
     <ul>
-      <li>Helped to create and implement enterprise Robotic Process Automation (RPA) standards and practices.</li>
-      <li>Created resilient RPA solutions to automate financial service processes for significant cost savings.</li>
+      <li><strong>Automation:</strong> Created and implemented enterprise Robotic Process Automation (RPA) standards.</li>
     </ul>
 
 - company: Nationwide
@@ -50,9 +40,7 @@
   duration: Jun, 2016 &mdash; Dec, 2018
   summary: >
     <ul>
-      <li>Part of the efforts to convert members to direct distribution.</li>
-      <li>Developed a custom CRM solution in Microsoft Access to dramatically improve team efficiency.</li>
-      <li>Continually a top performer in both quote and bind metrics.</li>
+      <li><strong>Sales Knowledge:</strong> Part of the efforts to convert members to direct distribution. Developed a custom CRM solution.</li>
     </ul>
     
 - company: Whole Foods Market
@@ -60,7 +48,5 @@
   duration:  Dec, 2010 &mdash; Jun, 2016
   summary: >
     <ul>
-      <li>Part of the Workday implementation team.</li>
-      <li>Built a software scheduling solution that resulted in a 7% reduction of staff hours while improving coverage of key time frames.</li>
-      <li>Ran a team of 50 cashiers as part of a leadership team.</li>
+      <li><strong>Leadership:</strong> Ran a team of 50 cashiers as part of a leadership team.</li>
     </ul>
