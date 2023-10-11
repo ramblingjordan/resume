@@ -1,26 +1,16 @@
 # Skills
-- skill: Development
+- skill: Leadership
   description: > 
-    <ul>
-      <li>Languages: TypeScript, Java, Python, C#, Ruby, Golang, PHP, C/C++</li>
-      <li>Frameworks: Node.js, Angular, React, Spring Boot, jQuery</li>
-      <li>CI/CD:  Docker, Kubernetes, Concourse, Splunk, Log4j, New Relic</li>
-      <li>Tools & Formats: JSON, YAML, PostgreSQL, OpenGL, REST, SOAP, Markdown</li>
-    </ul>
+    Team management, Coaching, Mentoring
+    
+- skill: Technical
+  description: >
+    TypeScript, Java, Docker, Kubernetes, Angular
+
+- skill: Methodologies
+  description: >
+    Scrum, Agile, SDLC
 
 - skill: Industry Knowledge
   description: >
-    <ul>
-      <li>Methodologies: Scrum, Agile, SDLC, Continuous Improvement, Lean Six Sigma</li>
-      <li>Automation: Robotic Process Automation, Pipelines, Automated Testing</li>
-      <li>Big Data: NoSQL, Numpy, Pandas, Blockchain</li>
-      <li>AI: TensorFlow, Keras, Convolutional Neural Networks</li>
-    </ul>
-
-- skill: Personal
-  description: >
-    <ul>
-      <li>Organization: GTD (Getting Things Done), Inbox Zero, Bullet Journal</li>
-      <li>Interpersonal: Team Player, Approachable, Highly Engaged (Orange Frog)</li>
-      <li>Development: Continuing Education, Community Involvement, Proactive Mentee</li>
-    </ul>
+    Personal lines insurance sales, Robotic Process Automation
